@@ -1,0 +1,32 @@
+body {
+    background-color: darkseagreen;
+}
+.name {
+    font-family: 'Dancing Script', cursive;
+    color: darkslategray;
+    font-size: 60px;
+}
+.date {
+
+    color: darkslateblue;
+}
+.kdpu {
+
+}
+img {
+    width: 15%;
+    height: 80%;
+    border-radius: 100%;
+}
+.Soz {
+    font-family: 'Dancing Script', cursive;
+    color: darkslategray;
+}
+.hobb {
+    font-family: 'Dancing Script', cursive;
+    color: darkslategray;
+}
+.kot {
+    font-family: 'Dancing Script', cursive;
+    color: darkslategray;
+}
